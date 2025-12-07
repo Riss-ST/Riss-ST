@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Riss-ST
-- 👀 I’m interested in Game and Handsome Guys
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ...
+Do your best with everything
 
 <!---
 Riss-ST/Riss-ST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
