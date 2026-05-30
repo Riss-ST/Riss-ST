@@ -18,7 +18,7 @@ void Start()
 
 void InitializeIdentity()
 {
-  Debug.Log($"Welcome to my small step! Unfolding World within my fingers ⭐");
+  Debug.Log("Welcome to my small step! Unfolding World within my fingers ⭐");
   
       // NPC.name : Risya Suci Tsuroyya 
       // NPC.hobbies : Drawing 🎨, Gaming 🎮 (SPECIAL THING FOR STUDIES ✨)
